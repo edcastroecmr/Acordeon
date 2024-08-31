@@ -1,0 +1,101 @@
+@media(max-width: 845px){
+    .navigation .container{
+        margin-left: 60px;
+    }
+    .boyimage{
+        margin-left: 60px; 
+    
+    }
+}
+@media(max-width: 785px){
+    .navigation .container{
+        margin-left: 80px;
+    }
+    .boyimage{
+        margin-left: 80px; 
+    
+    }
+}
+@media(max-width: 769px){
+    .navigation .container{
+    margin-left: 0px;
+    }
+    .navigation .container .descricoes .item-lista{
+        background-position: right calc(100% - 550px) bottom calc(100% - 7px);
+    }
+    .boyimage{
+    margin: 0px;
+    margin-bottom: 300px;
+    width: 200px;
+    }
+    .navigation .container .descricoes{
+        margin-left: 30px;
+        margin-top: 90px;
+    }
+}
+    @media(max-width: 696px){
+        .navigation .container{
+        width: 600px;
+        }
+        .navigation .container .descricoes .item-lista{
+            background-position: right calc(100% - 500px) bottom calc(100% - 7px);
+        }
+    }
+    @media(max-width: 644px){
+        .navigation .container{
+        width: 550px;
+        }
+        .navigation .container .descricoes .item-lista{
+            background-position: right calc(100% - 450px) bottom calc(100% - 7px);
+        }
+    }
+    @media(max-width: 589px){
+        .navigation .container{
+        width: 500px;
+        }
+        .navigation .container .descricoes .item-lista{
+            background-position: right calc(100% - 400px) bottom calc(100% - 7px);
+        }
+    }
+    @media(max-width: 539px){
+        .navigation .container{
+        width: 450px;
+        }
+        .navigation .container .descricoes .item-lista{
+            background-position: right calc(100% - 350px) bottom calc(100% - 7px);
+        }
+    }
+    @media(max-width: 479px){
+        .navigation .container{
+        width: 400px;
+        }
+        .navigation .container .descricoes .item-lista{
+            background-position: right calc(100% - 335px) bottom calc(100% - 7px);
+        }
+        .navigation .container .descricoes{
+        margin-left: 20px;
+        margin-right: 20px;
+        }
+    }
+    @media(max-width: 439px){
+        .navigation .container{
+        width: 350px;
+        height: 450px;
+        }
+        .navigation .container .descricoes .item-lista{
+            background-position: right calc(100% - 280px) bottom calc(100% - 7px);
+        }
+        .boyimage{
+            width: 135px;
+            margin-bottom: 370px;
+            }
+    }
+    @media(max-width: 383px){
+        .navigation .container{
+        width: 300px;
+        
+        }
+        .navigation .container .descricoes .item-lista{
+            background-position: right calc(100% - 235px) bottom calc(100% - 7px);
+        }
+    }
