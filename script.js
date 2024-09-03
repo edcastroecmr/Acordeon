@@ -24,8 +24,3 @@ pegarLi.forEach((lis) =>{
     })
 })
 
-
-
-
-
-// pegarTextoOculto.forEach((textinhos)=>{textinhos.classList.remove("mostrar") })
